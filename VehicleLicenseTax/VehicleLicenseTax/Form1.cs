@@ -24,6 +24,8 @@ namespace VehicleLicenseTax
         
         private void btnCommit_Click(object sender, EventArgs e)
         {
+            //不知道怎麼寫才可以將內容以跨年度的方式顯示,
+            //想請問老師,是否是因為把每個結果都寫成Method,而導致寫死而沒辦法和網站一樣將結果以跨年度的方式呈現呢?
             this.lbxResult.Visible = true;
             this.lbxResult.Items.Clear();
 
@@ -368,7 +370,6 @@ namespace VehicleLicenseTax
                 else
                     year = 365;
             }
-
 
             if (rbtnYear.Checked)
             {
