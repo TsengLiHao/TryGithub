@@ -1,0 +1,10 @@
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.exe.config
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.exe
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\bin\Debug\VehicleLicenseTax.pdb
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.AssemblyReference.cache
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.Properties.Resources.resources
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.GenerateResource.cache
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.csproj.CoreCompileInputs.cache
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.exe
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.pdb
+C:\Users\x9517\source\repos\VehicleLicenseTax\VehicleLicenseTax\obj\Debug\VehicleLicenseTax.VehicleLicenseTaxForm.resources
